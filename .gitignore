@@ -41,6 +41,10 @@
 *.VC.db
 *.VC.opendb
 
+# Compressed Folders
+*.zip
+*.rar
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
@@ -72,3 +76,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/Developers/*
+PickupImages/*
