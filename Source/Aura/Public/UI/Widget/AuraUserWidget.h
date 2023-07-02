@@ -24,4 +24,7 @@ public:
 protected:
 	UFUNCTION(BlueprintImplementableEvent)
 	void WidgetControllerSet();
+
+private:
+	//void OnMessageRowDelegateEvent();
 };
