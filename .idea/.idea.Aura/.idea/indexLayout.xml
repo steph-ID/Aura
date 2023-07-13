@@ -2,7 +2,10 @@
 <project version="4">
   <component name="UserContentModel">
     <attachedFolders />
-    <explicitIncludes />
+    <explicitIncludes>
+      <Path>Source/Aura/Private/AbilitySystem/AbilityTasks</Path>
+      <Path>Source/Aura/Public/AbilitySystem/AbilityTasks</Path>
+    </explicitIncludes>
     <explicitExcludes />
   </component>
 </project>
